@@ -11,3 +11,7 @@
 ### 2. Matrix-Matrix Multiplication AB
 
 [Problem Set I.2](https://github.com/nickovchinnikov/LinearAlgebraAndLearningFromData/blob/master/1.%20Highlights%20of%20Linear%20Algebra/2.%20Matrix-Matrix%20Multiplication%20AB/Problem%20Set%20I.2.pdf)
+
+### 3. The Four Fundamental Subspaces
+
+[Problem Set I.3](https://github.com/nickovchinnikov/LinearAlgebraAndLearningFromData/blob/master/1.%20Highlights%20of%20Linear%20Algebra/3.%20The%20Four%20Fundamental%20Subspaces/Problem%20Set%20I.3.pdf)
